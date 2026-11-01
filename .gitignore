@@ -1,0 +1,11 @@
+backend/.venv/
+backend/data/*.sqlite3
+backend/data/backups/
+backend/tests/.tmp/
+frontend/node_modules/
+frontend/dist/
+__pycache__/
+*.pyc
+*.log
+*.tsbuildinfo
+
